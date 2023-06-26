@@ -1,0 +1,23 @@
+airlines:
+  asia_miles:
+    ratio: 1.0
+  british_airways:
+    ratio: 1.0
+  delta:
+    ratio: 1.0
+  emirates:
+    ratio: 1.0
+  eithad:
+    ratio: 1.0
+  finnair:
+    ratio: 1.0
+  flying_blue:
+    ratio: 1.0
+  iberia:
+    ratio: 1.0
+  qantas:
+    ratio: 1.0
+  sas:
+    ratio: 1.0
+  singapore:
+    ratio: 0.66
